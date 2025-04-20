@@ -26,6 +26,10 @@ The **Cold Email Generator** is a Python-based tool designed to assist service c
 
 ---
 
+![cold-email-generator](https://github.com/user-attachments/assets/c95daaea-9b2f-45c3-97a9-59a102ba81bb)
+
+
+
 ## Installation
 
 1. Clone the repository:
@@ -55,7 +59,7 @@ The **Cold Email Generator** is a Python-based tool designed to assist service c
 1. Run the application:
 
    ```bash
-   python app/main.py
+   streamlit run app/main.py
    ```
 
 2. Input the URL of the target company's careers page when prompted.
